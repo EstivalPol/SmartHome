@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005523313197",
+    "project_id": "smart-house-df8f3",
+    "storage_bucket": "smart-house-df8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005523313197:android:49dd9cdee18a4670d24ea4",
+        "android_client_info": {
+          "package_name": "com.flutter.smart_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005523313197-tnf0amahqifb4vm5l3ep8gbn0vt0nhah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnLoEZnRSEN4C9zARqe-n6kE1ozqabT7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005523313197-ninjn024b74qdkeimq1ingfdtia4tnuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
